@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iri",
+    "iai",
+    "iii"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "a": {
+      "item": "crystalmodifiers:crystal"
+    },
+    "r": {
+      "item": "crystalmodifiers:crystal_refraction_lens"
+    }
+  },
+  "result": {
+    "item": "crystalmodifiers:crystaliron_alloy",
+    "count": 1
+  }
+}

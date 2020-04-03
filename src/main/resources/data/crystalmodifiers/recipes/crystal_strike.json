@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iai",
+    "GcG",
+    "SDS"
+  ],
+  "key": {
+    "i": {
+      "item": "crystalmodifiers:crystaliron_alloy"
+    },
+    "D": {
+      "item": "crystalmodifiers:crystal"
+    },
+    "S": {
+      "item": "crystalmodifiers:crystal_plating"
+    },
+    "a": {
+      "item": "crystalmodifiers:crystal_reversion_lens"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "c": {
+      "item": "crystalmodifiers:crystallic_pillar"
+    }
+  },
+  "result": {
+    "item": "crystalmodifiers:crystal_strike",
+    "count": 1
+  }
+}

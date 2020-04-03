@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GAG",
+    "rcr",
+    "SIS"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "S": {
+      "item": "crystalmodifiers:crystaliron_alloy"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "A": {
+      "item": "crystalmodifiers:crystal_reversion_lens"
+    },
+    "c": {
+      "item": "crystalmodifiers:crystal"
+    },
+    "r": {
+      "item": "crystalmodifiers:crystal_refraction_lens"
+    }
+  },
+  "result": {
+    "item": "crystalmodifiers:crystal_orb",
+    "count": 1
+  }
+}

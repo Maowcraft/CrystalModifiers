@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iDi",
+    "SaS",
+    "SRS"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "a": {
+      "item": "crystalmodifiers:crystal_attraction_lens"
+    }
+  },
+  "result": {
+    "item": "crystalmodifiers:crystal_reversion_lens",
+    "count": 1
+  }
+}

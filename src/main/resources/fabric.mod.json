@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "crystalmodifiers",
+  "version": "${version}",
+  "name": "Crystal Modifiers",
+  "description": "(ModFest 1.15) - Crystal Modifiers adds new crystals that apply potion effects to your player. They can be found through exploring the natural terrain, and apply a wide variety of different effects.",
+  "license": "CC0-1.0",
+  "icon": "assets/crystalmodifiers/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "modfest.crystalmodifiers.CrystalModifiers"
+    ],
+    "client": [
+      "modfest.crystalmodifiers.client.CrystalModifiersClient"
+    ]
+  },
+  "mixins": [
+    "crystalmodifiers.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.7.8+build.189",
+    "fabric": "*",
+    "minecraft": "1.15.2"
+  }
+}

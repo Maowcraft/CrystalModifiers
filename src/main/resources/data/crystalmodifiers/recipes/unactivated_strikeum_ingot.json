@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AbA",
+    "GsG",
+    "AGA"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "s": {
+      "item": "crystalmodifiers:strikeum_nugget"
+    },
+    "A": {
+      "item": "minecraft:redstone"
+    },
+    "b": {
+      "item": "crystalmodifiers:crystal_reversion_lens"
+    }
+  },
+  "result": {
+    "item": "crystalmodifiers:unactivated_strikeum_ingot",
+    "count": 2
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#R#",
+    "iCi",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stone"
+    },
+    "R": {
+      "item": "crystalmodifiers:crystal_refraction_lens"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "crystalmodifiers:crystal"
+    }
+  },
+  "result": {
+    "item": "crystalmodifiers:crystal_sealer",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "crystalmodifiers:item/activated_strikeum_ingot"
+  }
+}

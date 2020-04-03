@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "T",
+    "i"
+  ],
+  "key": {
+    "#": {
+      "item": "crystalmodifiers:crystal_refraction_lens"
+    },
+    "T": {
+      "item": "minecraft:torch"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "crystalmodifiers:crystallic_pillar",
+    "count": 1
+  }
+}

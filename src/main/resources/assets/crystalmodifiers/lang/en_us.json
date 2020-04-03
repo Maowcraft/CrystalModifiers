@@ -1,0 +1,27 @@
+{
+  "block.crystalmodifiers.crystal_ore": "Crystal Ore",
+  "block.crystalmodifiers.crystal_sealer": "Crystal Sealer",
+  "block.crystalmodifiers.crystallic_pillar": "Crystallic Pillar",
+  "block.crystalmodifiers.crystal_extractor": "Crystal Extractor",
+  "block.crystalmodifiers.trapped_stone": "Trapped Stone",
+
+  "itemGroup.crystalmodifiers.tab": "Crystal Modifiers",
+
+  "gui.title.crystalmodifiers.crystal_sealer": "Crystal Sealer",
+  "gui.button.crystalmodifiers.seal": "Seal",
+  "gui.title.crystalmodifiers.crystal_extractor": "Crystal Extractor",
+  "gui.button.crystalmodifiers.extract": "Extract",
+
+  "item.crystalmodifiers.crystal": "Crystal",
+  "item.crystalmodifiers.crystal_dagger": "Crystal Dagger",
+  "item.crystalmodifiers.crystal_orb": "Crystal Orb",
+  "item.crystalmodifiers.crystal_strike": "Crystal Strike",
+  "item.crystalmodifiers.crystal_refraction_lens": "Crystal Refraction Lens",
+  "item.crystalmodifiers.crystal_attraction_lens": "Crystal Attraction Lens",
+  "item.crystalmodifiers.crystal_reversion_lens": "Crystal Reversion Lens",
+  "item.crystalmodifiers.crystal_plating": "Crystal Plating",
+  "item.crystalmodifiers.crystaliron_alloy": "Crystal-Iron Alloy",
+  "item.crystalmodifiers.strikeum_nugget": "Strikeum Nugget",
+  "item.crystalmodifiers.unactivated_strikeum_ingot": "Unactivated Strikeum Ingot",
+  "item.crystalmodifiers.activated_strikeum_ingot": "Activated Strikeum Ingot"
+}
